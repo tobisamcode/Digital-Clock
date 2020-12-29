@@ -11,4 +11,4 @@ Generally, this clock takes real-time from our pcs/computers not from the server
 # Technology
 * HTML5
 * CSS
-*javascript
+* Javascript

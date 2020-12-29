@@ -12,3 +12,7 @@ Generally, this clock takes real-time from our pcs/computers not from the server
 * HTML5
 * CSS
 * Javascript
+
+
+# View
+![picture](https://github.com/tobisam2000/Digital-Clock/blob/main/digital.jpg)
